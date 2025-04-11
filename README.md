@@ -10,4 +10,4 @@ How to use:
 
 Firstly, it is required that webots is downloaded on your computer, which is available here: https://cyberbotics.com/
 
-Then, to run the simulation, navigate to the worlds folder and open the kitch_behavior_tree file 
+Then, to run the simulation, navigate to the worlds folder in the tiago_arm_project folder and open the kitch_behavior_tree.wbt file.
